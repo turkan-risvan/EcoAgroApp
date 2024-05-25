@@ -4,6 +4,11 @@
 ![image](https://github.com/turkan-risvan/EcoAgroApp/assets/78659151/b95347f1-5215-4c3e-a5d5-5eace640e6fd)
 ![image](https://github.com/turkan-risvan/EcoAgroApp/assets/78659151/8ced7200-a4e5-4da5-8534-96c38f184655)
 ![image](https://github.com/turkan-risvan/EcoAgroApp/assets/78659151/b9af36c4-763a-480d-a533-d3496223cc5e)
+[Uploading ekoagro[InternetShortcut]
+URL=http://localhost:8888/notebooks/Untitled27.ipynb
+.ipynb.url…]()
+
+
 
 
 
